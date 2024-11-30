@@ -1,5 +1,5 @@
 import React from "react";
-import './toggle.css';
+import './Toggle.css';
 
 const Data = ({ Submit, ClickChange}) => {
   return (
